@@ -1,9 +1,10 @@
 # .github/workflows/snake.yml
-name: Generate Snake Animation
+
+name: Generate Snake Animation 🐍
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
   workflow_dispatch:
   push:
     branches:
@@ -23,13 +24,15 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Tarunya0704
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            ./output/github-snake.svg
+            ./output/github-snake-dark.svg
 
-      - name: Push the animation to the output branch
+      - name: Push animation to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
