@@ -1,4 +1,4 @@
-## Hi 👋! My name is Tarunya and I'm a Full Stack Developer specializing in React/Next.js, Node.js, and cloud technologies with expertise in AI integration and blockchain development.
+Hi 👋! My name is Tarunya and I'm a Full Stack Developer specializing in React/Next.js, Node.js, and cloud technologies with expertise in AI integration and blockchain development.
 
 <br/>
 
