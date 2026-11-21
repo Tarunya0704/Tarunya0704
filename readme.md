@@ -1,7 +1,7 @@
 <!-- ═══════════════════════  HEADER  ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Tarunya%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="./assets/header.svg" width="100%" alt="Tarunya Yadav — Full-Stack & AI Engineer"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=Founding+Engineer+Intern+%40+Wildcard+AI+(YC+W25);Building+agentic+dev+tools+%26+MCP+servers;Fault-tolerant+queues%2C+pipelines+%26+state+machines;TypeScript+%E2%80%A2+Python+%E2%80%A2+Multi-LLM+systems" alt="Typing SVG" />
@@ -209,6 +209,6 @@ Open to conversations about **agentic AI, dev tooling, and backend systems that 
 
 <a href="mailto:tarunya.7470@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%"/>
 
 </div>
